@@ -1,0 +1,36 @@
+body{
+  margin: 0 auto;
+  width: 98%;
+  padding: 10px;
+}
+footer{
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+}
+h2{
+  font-size: 1.5em;
+}
+#groupButtons{
+  /*display: none;*/
+}
+#peopleButtons{
+  display: none;
+}
+.top{
+  margin: 1%;
+}
+.groupList{
+  display: none;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.group{
+  display: inline-block;
+  margin: auto;
+  width: auto;
+  padding: 10px;
+  vertical-align: top;
+  text-align: left;
+}

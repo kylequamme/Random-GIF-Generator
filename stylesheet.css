@@ -1,0 +1,24 @@
+body{
+  width: 100%;
+  text-align: center;
+}
+h2{
+  font-size: 1.5em;
+}
+.input-group{
+  width: 30%;
+  margin: 0 auto;
+}
+.result{
+  display: inline-block;
+  width: 100%;
+  margin: auto;
+  padding: 10px;
+}
+img{
+  display: inline-block;
+  max-width: 800px;
+}
+main{
+  text-align: center;
+}
